@@ -3,6 +3,6 @@
 <title>Hello World!</title>
 </head>
 <body>
-Hello World!
+Welcome to <?php echo $_SERVER['HTTP_HOST'] ;?>
 </body>
 </html>
